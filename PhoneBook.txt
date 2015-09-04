@@ -1,0 +1,1 @@
+0;sdfsdf;2000-1-13;;[phone.book.model.Phone@5ede7b, phone.book.model.Phone@74cd4d, phone.book.model.Phone@1961c42];mobile;[phone.book.model.Phone@5ede7b, phone.book.model.Phone@74cd4d, phone.book.model.Phone@1961c42];work;[phone.book.model.Phone@5ede7b, phone.book.model.Phone@74cd4d, phone.book.model.Phone@1961c42];work;Lena;Smile
